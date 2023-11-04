@@ -13,6 +13,7 @@ Intro TBA
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://linkedin.com/in/ctb116"><img src="https://avatars.githubusercontent.com/u/41807123?v=4?s=100" width="100px;" alt="Morrie T Bradley"/><br /><sub><b>Morrie T Bradley</b></sub></a><br /><a href="#content-mtb116" title="Content">🖋</a> <a href="#code-mtb116" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kevan-oconnell"><img src="https://avatars.githubusercontent.com/u/129803032?v=4?s=100" width="100px;" alt="kevan-oconnell"/><br /><sub><b>kevan-oconnell</b></sub></a><br /><a href="#content-kevan-oconnell" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
