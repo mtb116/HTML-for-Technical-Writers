@@ -25,15 +25,24 @@
       "profile": "https://github.com/kevan-oconnell",
       "contributions": [
         "content"
-       ]
-     },
-     {
+      ]
+    },
+    {
       "login": "birdstare",
       "name": "birdstare",
       "avatar_url": "https://avatars.githubusercontent.com/u/10536484?v=4",
       "profile": "https://github.com/birdstare",
       "contributions": [
         "audio"
+      ]
+    },
+    {
+      "login": "JonathanAmes",
+      "name": "Joanthan Ames",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139517254?v=4",
+      "profile": "https://github.com/JonathanAmes",
+      "contributions": [
+        "content"
       ]
     }
   ]
