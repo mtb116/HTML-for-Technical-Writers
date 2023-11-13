@@ -1,8 +1,12 @@
 # HTML for Technical Writers
 
-Intro TBA
+A quick introductory tutorial on HTML for technical writers.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-eytdrg?file=README.md)  
+[Website | Get started here!](https://mtb116.github.io/HTML-for-Technical-Writers/)
+
+[Edit code on StackBlitz ⚡️](https://stackblitz.com/edit/github-eytdrg?file=README.md)  
+
+
 
 ## Contributors
 
@@ -25,3 +29,18 @@ Intro TBA
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## Credits
+
+This project was originally created by team **The Lucky Robbers**! For completion of University of Washington's [Certificate in Professional Technical Writing](https://www.pce.uw.edu/certificates/professional-technical-writing). 
+
+![lucky_robber_logo](/static/img/lucky_robber_small.png)
+
+The Lucky Robbers!
+
+- Jonathan Ames
+- Sam Amodeo-Chavez
+- Morrie T Bradley
+- Kevan O’Connell
+- Tatiana Soutar
+
