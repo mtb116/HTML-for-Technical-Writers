@@ -1,16 +1,24 @@
 import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import img from "@site/static/img/lucky_robber_med.png"
+
+let styles = {
+  textAlign: "center",
+}
 
 
 export default function HomepageFeatures() {
   return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-  
-        </div>
-      </div>
+    <section style={styles}>
+      <img src={img} />
+      <p>This project was originally created by team <strong>The Lucky Robbers</strong>!</p>
+      <ul>
+        <li>Jonathan Ames</li>
+        <li>Sam Amodeo-Chavez</li>
+        <li>Morrie T Bradley</li>
+        <li>Kevan O’Connell</li>
+        <li>Tatiana Soutar</li>
+      </ul>
+      <p>For completion of University of Washington's <a href="https://www.pce.uw.edu/certificates/professional-technical-writing">Certificate in Professional Technical Writing</a>.</p>
     </section>
   );
 }
