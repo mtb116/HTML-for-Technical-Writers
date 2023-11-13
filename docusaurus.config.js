@@ -8,7 +8,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HTML for Technical Writers',
   tagline: 'A quick introductory tutorial on HTML for technical writers.',
-  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://mtb116.github.io',
