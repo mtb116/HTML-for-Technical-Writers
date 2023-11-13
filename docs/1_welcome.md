@@ -4,13 +4,8 @@ sidebar_position: 1
 
 # Welcome
 
-TBA
+Greetings from The Lucky Robbers - Kevan, Sam, Tatiana, Morrie, and Jonathan.
 
-Possible content:
+We designed this HTML intro specifically for Technical Writers. Whether you need a quick refresher or are approaching HTML for the first time, we hope this helps!
 
-1. Greetings from The Lucky Robbers.
-2. Describe how this document is intended for technical writers. Although HTML knowledge is all the same, how HTML is applied is very different between technical writers and web designers.
-3. Prerequisites (if any, none so far)
-
-
-4. How to use this document / site. (as applicable)
+Feel free to use the navigation tools below or extend the menu to the left to jump around.
